@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Data Scientist",
+    "description": "Mengolah dan menganalisis data untuk membantu pengambilan keputusan bisnis.",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "SQL"
+    ],
+    "field": "Teknologi",
+    "salary_range": "8000000-20000000"
+  },
+  {
+    "title": "Graphic Designer",
+    "description": "Merancang materi visual seperti poster, media sosial, dan branding perusahaan.",
+    "required_skills": [
+      "Adobe Photoshop",
+      "Creativity",
+      "UI/UX",
+      "Typography"
+    ],
+    "field": "Desain",
+    "salary_range": "5000000-12000000"
+  },
+  {
+    "title": "Digital Marketer",
+    "description": "Mengelola strategi pemasaran digital melalui media sosial, SEO, dan iklan online.",
+    "required_skills": [
+      "SEO",
+      "Content Writing",
+      "Google Ads",
+      "Social Media"
+    ],
+    "field": "Pemasaran",
+    "salary_range": "6000000-15000000"
+  },
+  {
+    "title": "Software Engineer",
+    "description": "Mengembangkan aplikasi dan sistem perangkat lunak sesuai kebutuhan pengguna.",
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git",
+      "Problem Solving"
+    ],
+    "field": "Teknologi",
+    "salary_range": "9000000-22000000"
+  },
+  {
+    "title": "Project Manager",
+    "description": "Mengelola proyek dan tim, memastikan semuanya selesai tepat waktu dan sesuai tujuan.",
+    "required_skills": [
+      "Leadership",
+      "Time Management",
+      "Communication",
+      "Agile"
+    ],
+    "field": "Manajemen",
+    "salary_range": "10000000-25000000"
+  }
+]
