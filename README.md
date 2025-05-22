@@ -38,7 +38,6 @@ git clone https://github.com/Farrelabrarw/Rekomendasi-karir.git
 cd Rekomendasi-karir
 ```
 2. Install dependencies
-Disarankan menggunakan virtual environment, tapi opsional.
 ```bash
 pip install -r requirements.txt
 ```
