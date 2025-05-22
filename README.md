@@ -43,5 +43,5 @@ pip install -r requirements.txt
 ```
 ## Cara Menjalankan
 ```bash
-streamlit run Rekomendasi karier.py
+streamlit run rekomendasi karier.py
 ```
